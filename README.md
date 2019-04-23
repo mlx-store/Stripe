@@ -1,4 +1,4 @@
-# Stripe Payment For Magento for magento
+# Stripe Payment For Magento
 
 Stripe Payment Gateway API is a simple, developer-friendly way to accept payments online. We hope the extension will give more options for you.
 
